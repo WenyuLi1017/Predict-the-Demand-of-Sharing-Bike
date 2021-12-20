@@ -43,7 +43,7 @@ In our model,  the maximum depth is 32, and the mean standard error is equal to 
 
 ### XGboost
 
-<p align="center"><img src="pic/feature_importance.jpg" alt="Routing" width="500"/></p>
+<p align="center"><img src="pic/features_importance.jpg" alt="Routing" width="500"/></p>
 
 The results show that the maximum depth is 10 and mean standard error equal to -57628.67. The feature importance also illustrates the feature importance of this model, which shows that humidity has the highest feature importance.
 
